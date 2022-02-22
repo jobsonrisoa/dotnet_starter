@@ -1,0 +1,15 @@
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/bin/Debug/net6.0/dotnet_starter
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/bin/Debug/net6.0/dotnet_starter.deps.json
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/bin/Debug/net6.0/dotnet_starter.runtimeconfig.json
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/bin/Debug/net6.0/dotnet_starter.dll
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/bin/Debug/net6.0/dotnet_starter.pdb
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.csproj.AssemblyReference.cache
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.AssemblyInfoInputs.cache
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.AssemblyInfo.cs
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.csproj.CoreCompileInputs.cache
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.dll
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/refint/dotnet_starter.dll
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.pdb
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/dotnet_starter.genruntimeconfig.cache
+/home/jobson/Documents/Projects/dotnet_start/dotnet_starter/obj/Debug/net6.0/ref/dotnet_starter.dll
